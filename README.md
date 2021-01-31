@@ -25,17 +25,70 @@ Puntos a tomar en cuenta:
 (Con estas tres actividades el alumno ya debería estar relacionado con la red y servicios de los que depende la nube)
 
 ## Tareas
-1. Montar un apache con Docker
-    + Punto extra si montan un CMS
-    + Documentar proceso (Paso a paso)
+### Tarea 1 
+```
+Describa al menos 3 casos de uso para cada uno de los tipos de servidores vistos en clase.
+
+Entregable:
+- README.md
+- diagrama.png (Muy parecido a como los hemos visto en clase)
+- Una captura de pantalla en que se vea su documento.md (markdown) renderizado (Como se vio en clase). Mi recomendación para esto es usar Visual Studio Code y renderizarlo con CTRL+SHIFT+V. Pero pueden hacer uso de cualquier otro. 
+
+Recursos de interes:
+https://markdown.es/sintaxis-markdown/
+https://code.visualstudio.com/download
+```
+
+### Tarea 2
+```
+Ver el vídeo y realizar un resumen con la descripción de lo que se ha realizado.
+Tratar de explicar cómo fue su ataque.
+
++ https://youtu.be/mWfitZWGadA
+
+Entregable:
+1 pdf, pueden incluir capturas de pantalla.
+```
 
 ## Examen
 + Teórico
 + Práctico
 
 ## Puntos extras
-+ Resolución DNS
-+ Explicación a fondo
+
+### Documentales - 1 punto extra (OPCIONAL)
+```
+Hola a todos, si quieren un punto extra sobre su calificación final deben ver los siguientes documentales y escribir un párrafo sobre sus impresiones sobre el vídeo. (Incluso es válido decir: "Esto no me ha enseñado nada").
+
+Tienen como fecha limite hasta el próximo domingo 7 de febrero para entregarlo.
+
+The Pirate Bay Away From Keyboard (Subtítulos en español)
++ https://youtu.be/41rwckQQ0lA
+
+Historia de los Hackers Informáticos [ Los inicios ] Documental - Discovery Chanel
++ https://youtu.be/AZCwMVgYGMI
+
+The Code: Story of Linux documentary (Multilingual)
++ https://youtu.be/XMm0HsmOTFI
+
+Entregable:
+- Un pdf con las opiniones de cada documental.
+```
+
+### Curso Docker - 1 punto extra (OPCIONAL)
+```
+Docker es una tecnología ampliamente utilizada y relativamente sencilla de aprender.
+Para desbloquear este punto extra deben:
+
+1) Ver el vídeo
+2) Montar un apache en Docker
+3) Elaborar un informe con el resumen y evidencia de lo que han realizado. 
+
+Entregable:
+1 pdf 
+
++ https://youtu.be/NVvZNmfqg6M
+```
 
 # Links de interes
 + https://github.com/
